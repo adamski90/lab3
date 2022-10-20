@@ -1,3 +1,4 @@
 Adam Fagan test
 Adam Fagan original
 this is another version of line 3
+This is a version of line 3
